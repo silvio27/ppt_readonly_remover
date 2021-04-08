@@ -1,2 +1,3 @@
-# -ppt-ppt_readonly_remover
-remove ppt readonly rights 去除ppt只读权限
+# PPT只读权限移除readonly_remover
+
+把需要破解的ppt文件拖到图标上即可执行破解
